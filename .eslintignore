@@ -1,0 +1,3 @@
+src/assets/images/*.png
+src/index.html
+src/**/*.scss
